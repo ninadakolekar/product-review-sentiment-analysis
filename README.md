@@ -1,2 +1,1 @@
-# Sentiment-Analysis
-Sentence Subjectivity and Sentiment Analysis
+# Sentence Subjectivity and Sentiment Analysis
