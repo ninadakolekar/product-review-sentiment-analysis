@@ -4,7 +4,7 @@
  
 ## Task
 
-* Dataset : The dataset we use is the Office Products "core_5" subset of the [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/)
+* Dataset : The dataset used is the Office Products "core_5" subset of the [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/)
 * Problem : Sentiment analysis for Amazon product reviews
 * Use Natural Language Procesisng techniques, Word2Vec model and a BiDirectional Long Short Term Memory (LSTM) neural network to conduct sentiment analysis for Amazon product reviews.
 * Accuracy score of 0.9 and AUC-ROC Score of 0.91.
